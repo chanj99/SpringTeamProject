@@ -1,0 +1,13 @@
+create table TEAMPAGE (
+        seq int AUTO_INCREMENT,
+		category varchar(20),
+        classname varchar(20),
+        classtime varchar(20),
+		classplace varchar(20),
+        content varchar(1000),
+		totalnum int,
+		close varchar(20),
+        regdate timestamp default current_timestamp, 
+        cnt int default 0,
+        primary key(seq)
+);
