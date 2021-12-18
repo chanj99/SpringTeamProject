@@ -34,7 +34,7 @@ P{
 		<P>The time on the server is ${serverTime}.</P>
 		<P>클래스를 신청하시려면 아래의 링크를 눌러주세요! :)</P>
 		<P>
-			<a href="teampage/list">클래스신청 게시판으로 이동</a>
+			<a href="/login/login">클래스신청 게시판으로 이동</a>
 		</P>
 	</div>
 

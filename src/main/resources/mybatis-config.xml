@@ -4,5 +4,6 @@
 <configuration>
 	<typeAliases>
 		<typeAlias alias="teampage" type="com.mycom.teampro.teampage.TeampageVO"/>
+		<typeAlias alias="user" type="com.mycom.teampro.teampage.UserVO"/>	
 	</typeAliases>
 </configuration>
