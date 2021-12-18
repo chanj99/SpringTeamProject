@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.mycom.teampro.DataSourceTest" time="1.621" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.mycom.teampro.DataSourceTest" time="1.708" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="16.0.2+7-67"/>
@@ -22,7 +22,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/chanjulee/Desktop/21-2/실전프로젝트/coding/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4782375842861355514.tmp"/>
+    <property name="classworlds.conf" value="/Users/chanjulee/Desktop/21-2/실전프로젝트/coding/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf11812924730065335431.tmp"/>
     <property name="jansi.force" value="true"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/chanjulee/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
@@ -57,5 +57,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|localhost|*.localhost|lx.astxsvc.com|*.lx.astxsvc.com"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|localhost|*.localhost|lx.astxsvc.com|*.lx.astxsvc.com"/>
   </properties>
-  <testcase classname="com.mycom.teampro.DataSourceTest" name="testConnection" time="1.621"/>
+  <testcase classname="com.mycom.teampro.DataSourceTest" name="testConnection" time="1.708"/>
 </testsuite>
